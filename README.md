@@ -34,4 +34,22 @@ The objective of this research is to:
   - ScienceDirect
   - ACM Digital Library
 
-## 📁 Repository Structure
+
+## 🛡️ Key Findings
+- Ransomware evolved into **multi-layered cyber threats**
+- Increased use of **data exfiltration + encryption**
+- Critical infrastructure is highly vulnerable
+- Need for **real-time detection systems**
+
+## ⚠️ Research Gaps
+- Lack of real-time defense systems
+- Difficulty in RaaS threat attribution
+- Limited sector-specific policies
+
+## 🎓 Author
+**Name:** Jayarathna K.P.G.C.M  
+**Registration ID:** IT22562074  
+**Field:** Cybersecurity / Ethical Hacking  
+
+
+
